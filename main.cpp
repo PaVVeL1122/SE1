@@ -1,4 +1,5 @@
 /* This is a educational */
+/* Performed by a student of the KEZ-182 group, Pavel Dunaev */
 #include <iostream>
 
 using namespace std;
@@ -6,7 +7,7 @@ using namespace std;
 int main()
 {
     int a, b;
-    count << "Enter two integer numbers" << endl;
+    cout << "Enter two integer numbers" << endl;
     cin >> a >> b;
     int c;
     c = a + b;
