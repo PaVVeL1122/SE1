@@ -1,5 +1,6 @@
-/* This is a educational */
-/* Performed by a student of the KEZ-182 group, Pavel Dunaev */
+//
+/* This program is just an example one under VCS */
+/* Author: Pavel Dunaev, KEz-182 */
 #include <iostream>
 
 using namespace std;
@@ -14,4 +15,6 @@ int main()
     cout << "a + b = " << c << endl;
     c = a - b;
     cout << "a - b = " << c << endl;
+    c = a * b;
+    cout << "a * b = " << c << endl;
 }
